@@ -1,0 +1,8 @@
+echo "Part2 #2. this is client2"
+date
+hostname
+ps
+ls
+ls -l | wc
+end
+

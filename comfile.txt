@@ -1,0 +1,8 @@
+echo "Part2 #1. this is client"
+date
+hostname
+ps
+ls -l | wc
+ls -l | head
+ls -l /etc | wc
+end

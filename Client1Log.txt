@@ -1,0 +1,41 @@
+Part2 #2. this is client1
+Sat Jul 27 18:18:48 CDT 2019
+cslinux1.utdallas.edu
+  PID TTY          TIME CMD
+47793 pts/3    00:00:00 bash
+48184 pts/3    00:00:00 a3server2
+48219 pts/3    00:00:00 a3server2
+48221 pts/3    00:00:00 sh <defunct>
+48222 pts/3    00:00:00 date <defunct>
+48223 pts/3    00:00:00 hostname <defunct>
+48224 pts/3    00:00:00 ps
+total 120
+-rwx--x--x+ 1 apk180003 sn 13456 Jul 27 17:45 a3client1
+-rw-------+ 1 apk180003 sn  2666 Jul 27 17:45 a3client1.c
+-rwx--x--x+ 1 apk180003 sn 13456 Jul 27 17:45 a3client2
+-rwx--x--x+ 1 apk180003 sn 13456 Jul 27 18:08 a3client2-1
+-rw-------+ 1 apk180003 sn  2807 Jul 27 17:58 a3client2-1.c
+-rwx--x--x+ 1 apk180003 sn 13456 Jul 27 18:08 a3client2-2
+-rw-------+ 1 apk180003 sn  2757 Jul 27 17:57 a3client2-2.c
+-rwx--x--x+ 1 apk180003 sn 13648 Jul 27 12:26 a3server1
+-rw-------+ 1 apk180003 sn  2379 Jul 26 13:44 a3server1.c
+-rwx--x--x+ 1 apk180003 sn 13848 Jul 27 18:08 a3server2
+-rw-------+ 1 apk180003 sn  2615 Jul 27 18:08 a3server2.c
+-rw-------+ 1 apk180003 sn     0 Jul 27 18:18 Client1Log.txt
+-rw-------+ 1 apk180003 sn    71 Jul 27 13:06 comfile2-1.txt
+-rw-------+ 1 apk180003 sn    69 Jul 27 13:07 comfile2-2.txt
+-rw-------+ 1 apk180003 sn    93 Jul 19 14:15 comfile.txt
+-rw-------+ 1 apk180003 sn   104 Jul 27 17:50 Makefile
+-rw-------+ 1 apk180003 sn  2051 Jul 27 17:58 Output-File.txt
+-rwx--x--x+ 1 apk180003 sn  8768 Jul 27 16:25 sampletimer
+-rw-------+ 1 apk180003 sn   424 Jul 27 16:25 sampletimer.c
+a3client1
+a3client1.c
+a3client2
+a3client2-1
+a3client2-1.c
+a3client2-2
+a3client2-2.c
+a3server1
+a3server1.c
+a3server2

@@ -1,0 +1,54 @@
+Part2 #2. this is client1
+Sat Jul 27 17:58:24 CDT 2019
+cslinux1.utdallas.edu
+  PID TTY          TIME CMD
+40421 pts/10   00:00:00 bash
+44952 pts/10   00:00:00 a3server2
+44954 pts/10   00:00:00 sh <defunct>
+44955 pts/10   00:00:00 date <defunct>
+44956 pts/10   00:00:00 hostname <defunct>
+44957 pts/10   00:00:00 ps <defunct>
+44958 pts/10   00:00:00 ls <defunct>
+44959 pts/10   00:00:00 sh <defunct>
+44967 pts/10   00:00:00 a3server2
+44969 pts/10   00:00:00 sh <defunct>
+44970 pts/10   00:00:00 date <defunct>
+44971 pts/10   00:00:00 hostname <defunct>
+44972 pts/10   00:00:00 ps <defunct>
+44973 pts/10   00:00:00 ls <defunct>
+44974 pts/10   00:00:00 sh <defunct>
+46189 pts/10   00:00:00 a3server2
+46198 pts/10   00:00:00 a3server2
+46200 pts/10   00:00:00 sh <defunct>
+46201 pts/10   00:00:00 date <defunct>
+46202 pts/10   00:00:00 hostname <defunct>
+46203 pts/10   00:00:00 ps
+total 117
+-rwx--x--x+ 1 apk180003 sn 13456 Jul 27 17:45 a3client1
+-rw-------+ 1 apk180003 sn  2666 Jul 27 17:45 a3client1.c
+-rwx--x--x+ 1 apk180003 sn 13456 Jul 27 17:45 a3client2
+-rwx--x--x+ 1 apk180003 sn 13456 Jul 27 17:58 a3client2-1
+-rw-------+ 1 apk180003 sn  2807 Jul 27 17:58 a3client2-1.c
+-rwx--x--x+ 1 apk180003 sn 13456 Jul 27 17:58 a3client2-2
+-rw-------+ 1 apk180003 sn  2757 Jul 27 17:57 a3client2-2.c
+-rwx--x--x+ 1 apk180003 sn 13648 Jul 27 12:26 a3server1
+-rw-------+ 1 apk180003 sn  2379 Jul 26 13:44 a3server1.c
+-rwx--x--x+ 1 apk180003 sn 13848 Jul 27 17:58 a3server2
+-rw-------+ 1 apk180003 sn  2686 Jul 27 17:35 a3server2.c
+-rw-------+ 1 apk180003 sn    71 Jul 27 13:06 comfile2-1.txt
+-rw-------+ 1 apk180003 sn    69 Jul 27 13:07 comfile2-2.txt
+-rw-------+ 1 apk180003 sn    93 Jul 19 14:15 comfile.txt
+-rw-------+ 1 apk180003 sn   104 Jul 27 17:50 Makefile
+-rw-------+ 1 apk180003 sn     0 Jul 27 17:58 Output-File.txt
+-rwx--x--x+ 1 apk180003 sn  8768 Jul 27 16:25 sampletimer
+-rw-------+ 1 apk180003 sn   424 Jul 27 16:25 sampletimer.c
+a3client1
+a3client1.c
+a3client2
+a3client2-1
+a3client2-1.c
+a3client2-2
+a3client2-2.c
+a3server1
+a3server1.c
+a3server2

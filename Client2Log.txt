@@ -1,0 +1,39 @@
+Part2 #2. this is client2
+Sat Jul 27 18:19:17 CDT 2019
+cslinux1.utdallas.edu
+  PID TTY          TIME CMD
+47793 pts/3    00:00:00 bash
+48184 pts/3    00:00:00 a3server2
+48219 pts/3    00:00:00 a3server2
+48221 pts/3    00:00:00 sh <defunct>
+48222 pts/3    00:00:00 date <defunct>
+48223 pts/3    00:00:00 hostname <defunct>
+48224 pts/3    00:00:00 ps <defunct>
+48225 pts/3    00:00:00 ls <defunct>
+48226 pts/3    00:00:00 sh <defunct>
+48257 pts/3    00:00:00 a3server2
+48259 pts/3    00:00:00 sh <defunct>
+48260 pts/3    00:00:00 date <defunct>
+48261 pts/3    00:00:00 hostname <defunct>
+48262 pts/3    00:00:00 ps
+a3client1
+a3client1.c
+a3client2
+a3client2-1
+a3client2-1.c
+a3client2-2
+a3client2-2.c
+a3server1
+a3server1.c
+a3server2
+a3server2.c
+Client1Log.txt
+Client2Log.txt
+comfile2-1.txt
+comfile2-2.txt
+comfile.txt
+Makefile
+Output-File.txt
+sampletimer
+sampletimer.c
+     21     182    1181
